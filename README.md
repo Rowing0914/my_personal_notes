@@ -109,7 +109,7 @@ PYTHONUNBUFFERED=1;LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/home/norio0925/.mujoco/mujo
 - if you come across this error: `UserWarning: Matplotlib is currently using agg, which is a non-GUI backend, so cannot show the figure. plt.show()` then do the following line
 
 ```shell
-sudo apt-get install tcl-dev tk-dev python-tk python3-tk
+sudo apt-get install tcl-dev tk-dev python3.6-tk
 ```
 
 ## Pip list
