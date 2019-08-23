@@ -9,8 +9,7 @@ This may not work in the future anymore tho, at least I'd like to write down the
 sudo apt-get install git terminator compizconfig-settings-manager
 ```
 
-- Set the Menu at the Bottom
-http://ubuntuhandbook.org/index.php/2016/03/ubuntu-16-04-move-unity-launcher-to-bottom/
+- [Set the Menu at the Bottom](http://ubuntuhandbook.org/index.php/2016/03/ubuntu-16-04-move-unity-launcher-to-bottom/)
 `gsettings set com.canonical.Unity.Launcher launcher-position Bottom`
 
 - Login to Git
