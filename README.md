@@ -106,6 +106,11 @@ sudo apt install indicator-multiload
 ```shell
 PYTHONUNBUFFERED=1;LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/home/norio0925/.mujoco/mujoco200/bin:/usr/lib/nvidia-410
 ```
+- if you come across this error: `UserWarning: Matplotlib is currently using agg, which is a non-GUI backend, so cannot show the figure. plt.show()` then do the following line
+
+```shell
+sudo apt-get install tcl-dev tk-dev python-tk python3-tk
+```
 
 ## Pip list
 - for OpenAI/Gym, consider using my repo for this
