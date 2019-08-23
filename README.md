@@ -60,18 +60,19 @@ wget http://developer.download.nvidia.com/compute/machine-learning/repos/ubuntu1
 sudo apt install ./nvidia-machine-learning-repo-ubuntu1604_1.0.0-1_amd64.deb
 sudo apt-get update
 
-# === Install NVIDIA Driver ==
+# Install NVIDIA Driver
 # Issue with driver install requires creating /usr/lib/nvidia
 sudo mkdir /usr/lib/nvidia
 sudo apt-get install --no-install-recommends nvidia-410
-# Reboot. Check that GPUs are visible using the command: nvidia-smi
+# [WARNING] => Reboot. Check that GPUs are visible using the command: nvidia-smi
 
+
+# === Install CuDA ===
 # Install development and runtime libraries (~4GB)
 sudo apt-get install --no-install-recommends \
     cuda-10-0 \
     libcudnn7=7.4.1.5-1+cuda10.0  \
     libcudnn7-dev=7.4.1.5-1+cuda10.0
-
 
 # Install TensorRT. Requires that libcudnn7 is installed above.
 sudo apt-get update && \
