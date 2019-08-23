@@ -91,7 +91,9 @@ export LD_PRELOAD=/usr/lib/x86_64-linux-gnu/libGLEW.so
 ```
 
 Then run the following commands to install missing modules on Ubuntu
-`sudo apt install libx11-dev libglew-dev patchelf`
+```shell
+sudo apt install libx11-dev libglew-dev patchelf
+```
 
 ## Pip list
 - for OpenAI/Gym, consider using my repo for this
