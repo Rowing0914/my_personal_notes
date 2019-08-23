@@ -95,6 +95,13 @@ Then run the following commands to install missing modules on Ubuntu
 sudo apt install libx11-dev libglew-dev patchelf
 ```
 
+## Other Miscellenius tools
+- [CPU usage on menu bar](https://askubuntu.com/questions/406204/how-can-i-add-the-current-cpu-usage-to-my-menu-bar-as-a-percentage)
+```shell
+sudo apt install indicator-multiload
+# then open the system indicator and modify the indicator items
+```
+
 ## Pip list
 - for OpenAI/Gym, consider using my repo for this
 https://github.com/Rowing0914/gym_modified
