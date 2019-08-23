@@ -95,11 +95,16 @@ Then run the following commands to install missing modules on Ubuntu
 sudo apt install libx11-dev libglew-dev patchelf
 ```
 
-## Other Miscellenius tools
+## Other Miscellenius tools/settings
 - [CPU usage on menu bar](https://askubuntu.com/questions/406204/how-can-i-add-the-current-cpu-usage-to-my-menu-bar-as-a-percentage)
 ```shell
 sudo apt install indicator-multiload
 # then open the system indicator and modify the indicator items
+```
+
+- On pycharm, to use MuJoCo, you need to manually set the environmental path. So that set the following line to `Environment Variables` in `Run/Degub Configurations` to enable python see them on Pycharm
+```shell
+PYTHONUNBUFFERED=1;LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/home/norio0925/.mujoco/mujoco200/bin:/usr/lib/nvidia-410
 ```
 
 ## Pip list
