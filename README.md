@@ -9,6 +9,10 @@ This may not work in the future anymore tho, at least I'd like to write down the
 sudo apt-get install git terminator compizconfig-settings-manager
 ```
 
+- Set the Menu at the Bottom
+http://ubuntuhandbook.org/index.php/2016/03/ubuntu-16-04-move-unity-launcher-to-bottom/
+`gsettings set com.canonical.Unity.Launcher launcher-position Bottom`
+
 - Login to Git
 ```shell
 git config --global user.name "YOUR_USERNAME"
@@ -87,3 +91,9 @@ export LD_PRELOAD=/usr/lib/x86_64-linux-gnu/libGLEW.so
 
 Then run the following commands to install missing modules on Ubuntu
 `sudo apt install libx11-dev libglew-dev patchelf`
+
+## Pip list
+- for OpenAI/Gym, consider using my repo for this
+https://github.com/Rowing0914/gym_modified
+- other than that, follow below
+`sudo pip3.6 install matplotlib tensorflow-gpu==1.14.0 tensorflow-probability`
