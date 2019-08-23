@@ -116,4 +116,4 @@ sudo apt-get install tcl-dev tk-dev python3.6-tk
 - for OpenAI/Gym, consider using my repo for this
 https://github.com/Rowing0914/gym_modified
 - other than that, follow below
-`sudo pip3.6 install matplotlib tensorflow-gpu==1.14.0 tensorflow-probability pandas`
+`sudo pip3.6 install matplotlib tensorflow-gpu==1.14.0 tensorflow-probability pandas opencv-python atari_py`
