@@ -104,7 +104,7 @@ sudo apt install indicator-multiload
 
 - On pycharm, to use MuJoCo, you need to manually set the environmental path. So that set the following line to `Environment Variables` in `Run/Degub Configurations` to enable python see them on Pycharm
 ```shell
-PYTHONUNBUFFERED=1;LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/home/norio0925/.mujoco/mujoco200/bin:/usr/lib/nvidia-410
+PYTHONUNBUFFERED=1;LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/home/norio0925/.mujoco/mujoco200/bin:/usr/lib/nvidia-410;LD_PRELOAD=/usr/lib/x86_64-linux-gnu/libGLEW.so
 ```
 - if you come across this error: `UserWarning: Matplotlib is currently using agg, which is a non-GUI backend, so cannot show the figure. plt.show()` then do the following line
 
