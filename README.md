@@ -126,6 +126,12 @@ PYTHONUNBUFFERED=1;LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/home/norio0925/.mujoco/mujo
 sudo apt-get install tcl-dev tk-dev python3.6-tk
 ```
 
+- when you get stuck at Proxy issue(`fatal: Unable to look up github.com (port 9418)`) in doing pip. try this
+
+```shell
+git config --global url."https://".insteadOf git://
+```
+
 ## Pip list
 - for OpenAI/Gym, consider using my repo for this
 https://github.com/Rowing0914/gym_modified
