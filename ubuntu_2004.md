@@ -12,6 +12,9 @@
 
 - [Language Setting: JP](https://moritzmolch.com/2404)
 - Easy Stroke: `sudo apt-get install easystroke wmctrl xdotool`
-- Screen(Linux sessoin management tool on Terminal)
-  - https://gist.github.com/jctosta/af918e1618682638aa82
-  - https://gist.github.com/emadehsan/ad6e81ca595e99045abb391844f45346
+- tmux or Screen(Linux sessoin management tool on Terminal)
+  - Screen
+    - https://gist.github.com/jctosta/af918e1618682638aa82
+    - https://gist.github.com/zigmoo/b67b11cd7bc8a5c66a44b91fcf37898e
+  - tmux
+    - https://tmuxcheatsheet.com/
