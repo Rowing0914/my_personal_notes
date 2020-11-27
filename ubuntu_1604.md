@@ -27,6 +27,8 @@ git config --global user.email "your_email_address@example.com"
 
 - [Anaconda](https://docs.anaconda.com/anaconda/install/linux/)
 
+- [Language Setting: JP](https://moritzmolch.com/2287)
+
 - Python3.6
 ```shell
 sudo add-apt-repository ppa:deadsnakes/ppa
