@@ -4,7 +4,7 @@ sea of research? how they pick such good questions from research papers?
 
 # How to conduct research?(In ML)
 
-
+![Screenshot from 2020-12-09 08-32-44](images/Screenshot from 2020-12-09 08-32-44.png)
 
 # How to read papers? by Prof. Andrew Ng
 ## Intro
