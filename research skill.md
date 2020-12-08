@@ -2,6 +2,10 @@
 Lately, I am exploring, how great researchers read papers? how they stay up-to-date in the big
 sea of research? how they pick such good questions from research papers?
 
+# How to conduct research?(In ML)
+
+
+
 # How to read papers? by Prof. Andrew Ng
 ## Intro
 
