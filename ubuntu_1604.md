@@ -2,7 +2,7 @@
 this is the installation guide for Ubuntu 16.04 LTS as of 2019.
 This may not work in the future anymore tho, at least I'd like to write down the procedure I took this time.
 
-## Steps
+## Tools
 - Git/CCSM(unity manager)
 ```shell
 sudo apt-get install git compizconfig-settings-manager
@@ -12,6 +12,9 @@ sudo apt-get install git compizconfig-settings-manager
 ```shell
 gsettings set com.canonical.Unity.Launcher launcher-position Bottom
 ```
+
+- [Arch-like Dark theme](https://itsfoss.com/install-themes-ubuntu/)
+
 
 - Login to Git
 ```shell
@@ -24,6 +27,11 @@ git config --global user.email "your_email_address@example.com"
 
 - Sublime
 `sudo snap install sublime-text  --classic`
+
+- [Typora](https://typora.io/#linux)
+- About Themes: [1](https://support.typora.io/About-Themes/) / [2](https://theme.typora.io/)
+  - [Monokai theme!](https://theme.typora.io/theme/Light-Monokai/)
+
 
 - [Anaconda](https://docs.anaconda.com/anaconda/install/linux/)
 
