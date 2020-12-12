@@ -29,8 +29,8 @@ git config --global user.email "your_email_address@example.com"
 `sudo snap install sublime-text  --classic`
 
 - [Typora](https://typora.io/#linux)
-- ~~About Themes: [1](https://support.typora.io/About-Themes/) / [2](https://theme.typora.io/)
-  - ~~[Monokai theme!](https://theme.typora.io/theme/Light-Monokai/)
+- ~~About Themes: [1](https://support.typora.io/About-Themes/) / [2](https://theme.typora.io/)~~
+  - ~~[Monokai theme!](https://theme.typora.io/theme/Light-Monokai/)~~
 
 
 - [Anaconda](https://docs.anaconda.com/anaconda/install/linux/)
