@@ -32,6 +32,14 @@ git config --global user.email "your_email_address@example.com"
   - ~~About Themes: [1](https://support.typora.io/About-Themes/) / [2](https://theme.typora.io/)~~
   - ~~[Monokai theme!](https://theme.typora.io/theme/Light-Monokai/)~~
 
+- Okular for PDF reader
+  - https://codeyarns.com/tech/2015-05-12-how-to-annotate-documents-using-okular.html
+  - https://docs.kde.org/stable5/en/kdegraphics/okular/annotations.html
+
+- Google Drive connector
+  - https://www.omgubuntu.co.uk/2016/08/use-google-drive-ubuntu-16-04-linux-desktops
+  - https://www.linuxtechi.com/access-google-drive-in-ubuntu-16-04/
+  - https://steemit.com/google/@davetromp/how-to-install-google-drive-sync-on-ubuntu-16-04-and-higher
 
 - [Anaconda](https://docs.anaconda.com/anaconda/install/linux/)
 
