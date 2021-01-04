@@ -36,7 +36,7 @@ git config --global user.email "your_email_address@example.com"
   - https://codeyarns.com/tech/2015-05-12-how-to-annotate-documents-using-okular.html
   - https://docs.kde.org/stable5/en/kdegraphics/okular/annotations.html
 
-- Google Drive Client: Please consider using Rclone!
+- Google Drive Client: Please consider using Rclone! <- DON'T USE FUNCKING GOOGLE DRIVE, USE DROPBOX, THEY PROVIDE THE AUTHENTIC CLIENT!!
   - https://linuxhint.com/best_google_drive_clients_linux/
 
 - [Anaconda](https://docs.anaconda.com/anaconda/install/linux/)
