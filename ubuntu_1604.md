@@ -37,7 +37,6 @@ git config --global user.email "your_email_address@example.com"
   - https://docs.kde.org/stable5/en/kdegraphics/okular/annotations.html
 
 - Google Drive connector
-  - https://www.omgubuntu.co.uk/2016/08/use-google-drive-ubuntu-16-04-linux-desktops
   - https://www.linuxtechi.com/access-google-drive-in-ubuntu-16-04/
   - https://steemit.com/google/@davetromp/how-to-install-google-drive-sync-on-ubuntu-16-04-and-higher
 
