@@ -28,6 +28,9 @@ git config --global user.email "your_email_address@example.com"
 - Sublime
 `sudo snap install sublime-text  --classic`
 
+- tmux
+  - https://qiita.com/sugimount/items/b79989980ec2f968a2d6
+
 - [Typora](https://typora.io/#linux)
   - ~~About Themes: [1](https://support.typora.io/About-Themes/) / [2](https://theme.typora.io/)~~
   - ~~[Monokai theme!](https://theme.typora.io/theme/Light-Monokai/)~~
