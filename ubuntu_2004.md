@@ -6,7 +6,7 @@
 - [Anaconda Install](https://docs.anaconda.com/anaconda/install/linux/)
 - Pycharm: `sudo snap install pycharm-community --classic`
 - [Typora install](https://support.typora.io/Typora-on-Linux/)
-- [Sublime install](https://easycloudsupport.zendesk.com/hc/en-us/articles/360006586972-Install-Sublime-Text-3-in-Ubuntu-16-04-Higher-The-Official-Way)
+- [Sublime install](https://linuxize.com/post/how-to-install-sublime-text-3-on-ubuntu-20-04/)
 - [Atom install](https://flight-manual.atom.io/getting-started/sections/installing-atom/)
 - CPU usage on menu bar: `sudo apt install indicator-multiload`
 
