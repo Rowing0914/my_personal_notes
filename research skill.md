@@ -2,9 +2,6 @@
 Lately, I am exploring, how great researchers read papers? how they stay up-to-date in the big
 sea of research? how they pick such good questions from research papers?
 
-# How to conduct research?(In ML)
-
-<img src="images/Screenshot from 2020-12-09 08-32-44.png" alt="Screenshot from 2020-12-09 08-32-44" style="zoom:80%;" />
 
 # How to read papers? by Prof. Andrew Ng
 ## Intro
@@ -128,3 +125,6 @@ changing a practice intervention.
 - https://gred.seisa.ac.jp/kyouikugaku/nyushi/guideline1/?action=common_download_main&upload_id=766
 - https://pdfs.semanticscholar.org/db8c/ee0bd64268a75f0a8f02cc446223ce9ceeed.pdf
 - http://www.phd-dauin.polito.it/proposals.php#44
+
+## Read before working on a rebuttal
+- https://deviparikh.medium.com/how-we-write-rebuttals-dc84742fece1
