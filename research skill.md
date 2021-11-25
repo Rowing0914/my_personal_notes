@@ -126,5 +126,5 @@ changing a practice intervention.
 - https://pdfs.semanticscholar.org/db8c/ee0bd64268a75f0a8f02cc446223ce9ceeed.pdf
 - http://www.phd-dauin.polito.it/proposals.php#44
 
-## Read before working on a rebuttal
+# How to write rebuttals
 - https://deviparikh.medium.com/how-we-write-rebuttals-dc84742fece1
