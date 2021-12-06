@@ -9,6 +9,9 @@
 - [Sublime install](https://linuxize.com/post/how-to-install-sublime-text-3-on-ubuntu-20-04/)
 - [Atom install](https://flight-manual.atom.io/getting-started/sections/installing-atom/)
 - CPU usage on menu bar: `sudo apt install indicator-multiload`
+- Okular PDF Viewer
+  - `sudo apt install okular`
+  - `sudo apt install okular-extra-backends` <- To annotate PDFs
 
 - [Language Setting: JP](https://moritzmolch.com/2404)
 - Easy Stroke: `sudo apt-get install easystroke wmctrl xdotool`
