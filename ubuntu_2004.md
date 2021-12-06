@@ -5,7 +5,7 @@
 - [GPU installation](https://www.tensorflow.org/install/gpu)
 - [Anaconda Install](https://docs.anaconda.com/anaconda/install/linux/)
 - Pycharm: `sudo snap install pycharm-community --classic`
-- [Typora install](https://support.typora.io/Typora-on-Linux/)
+- [Typora install](https://typora.io/windows/dev_release.html)
 - [Sublime install](https://linuxize.com/post/how-to-install-sublime-text-3-on-ubuntu-20-04/)
 - [Atom install](https://flight-manual.atom.io/getting-started/sections/installing-atom/)
 - CPU usage on menu bar: `sudo apt install indicator-multiload`
