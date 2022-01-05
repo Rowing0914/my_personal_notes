@@ -128,3 +128,11 @@ changing a practice intervention.
 
 # How to write rebuttals
 - https://deviparikh.medium.com/how-we-write-rebuttals-dc84742fece1
+
+## Mentoring Tips: How to mentor Phd student and how to Feedback
+- Be constructive
+  - Give the alternative idea when you discuss, don't just say that it's bad
+- Listen carefully
+  - They might have thought of something that I've never thought of!
+- Don't control too much, find the middle ground via discussion
+  - Try to keep the direction as original as possible, i.e., the direction that he/she wants to
