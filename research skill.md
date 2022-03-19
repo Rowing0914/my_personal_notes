@@ -126,8 +126,31 @@ changing a practice intervention.
 - https://pdfs.semanticscholar.org/db8c/ee0bd64268a75f0a8f02cc446223ce9ceeed.pdf
 - http://www.phd-dauin.polito.it/proposals.php#44
 
-# How to write rebuttals
+## How to write rebuttals
 - https://deviparikh.medium.com/how-we-write-rebuttals-dc84742fece1
+
+
+## Rebuttal tips
+- Rebuttal Tips
+- Start positive
+- Order matters
+- Let reviewers speak for themselves, then respond directly
+- Be conversational
+- Respond to the intentt of the questions
+- Don't be afraid of emphasis
+- Feel free to set the stage
+- Keep things self-contained
+- But get credit for details you already included
+- Consolidate common concerns
+- Colour-code reviewers
+- Stats speak louder than words
+- Don't promise, do!
+- Be receptive and reasonable
+- Be transparent
+- Shine a spotlight on reviewers acting in bad-faith
+- Acknolwdge reviewer efforts
+- Don't forget the humans on the other end
+
 
 ## Mentoring Tips: How to mentor Phd student and how to Feedback
 - Be constructive
