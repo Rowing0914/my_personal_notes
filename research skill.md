@@ -172,3 +172,18 @@ changing a practice intervention.
 - Wherever we can explain something with videos, or transitions or an animated build-up of figures, do it
 - Make results look more attractive but be faithful!!
 - Key words: Conciseness / Clarity / Perspective of a new viewer / Presentation / Aesthetics
+
+
+## Generic paper structure
+- Introduction
+- Relevant Works
+- Problem Setting
+  - Setting where env requires our assumption
+  - Our hypothesis and Prior exp to verify it
+- Proposition
+- Exprements
+  - Research Question
+  - Envs
+  - Agents / Baselines
+- Conclusion
+- Appendix
