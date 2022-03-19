@@ -149,7 +149,7 @@ changing a practice intervention.
 - Apart from these, there are several other ways to make research contributions such as rigorously analyzing issues in what works and what doesn’t, benchmarking current algorithms, and novel datasets or environments that further the frontier of research.
 
 ## Resarch Procedural Tips
-- Brainstorm with more depth of interleaving questioning and answering, don't stop with first layer of questions idea generation
+- Brainstorm with more depth of interleaving questioning and answering, don't stop with first layer of questions in idea generation
   - top-down: start with the problem, narrow down to solution space
   - bottom-up: start from specific insights, and go upwards to solve bigger family, more universal problems
 - Constant thinking and reading to refine the process
