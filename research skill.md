@@ -154,3 +154,21 @@ changing a practice intervention.
   - bottom-up: start from specific insights, and go upwards to solve bigger family, more universal problems
 - Constant thinking and reading to refine the process
 - Statement with common technical language that everybody is familiar with to reduce ambiguity
+
+
+## Code submission prep todos
+- Remove non-anonymous references: name(individual / company / team / server name / etc)
+- Add requirements, experiments, analyses cmds to README
+- Add brief intro to the beginning and quantitative results to the end of README.md
+- Remove any unnecessary files that are not used anywhere. This requires a pass-through of the entire codebase.
+- Delete all __pycache__ folders
+- Finally, git pull in a new folder, delete .git and .gitignore and then make the zip file to upload
+
+
+## Slide Prep tips
+- Be wary of how to make it visually appealing. For example, using red colour in text is not so pleasing. You can try bold or some other colour that is easier on the eye.
+- Think from the perspective of a new viewer who has no idea about our project
+  - How can we make them understand the important parts in the easiest manner?
+- Wherever we can explain something with videos, or transitions or an animated build-up of figures, do it
+- Make results look more attractive but be faithful!!
+- Key words: Conciseness / Clarity / Perspective of a new viewer / Presentation / Aesthetics
