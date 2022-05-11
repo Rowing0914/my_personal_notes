@@ -241,7 +241,7 @@ changing a practice intervention.
   - All the presentation tips won't work if you have a crappy poster.
 
 
-## Intro Writing Tips by (Ayush Jain)[http://www-scf.usc.edu/~ayushj/]
+## Intro Writing Tips by [Ayush Jain](http://www-scf.usc.edu/~ayushj/)
 The general procedure for intro writing depends on the kind of paper it is. It usually requires a lot of trial and error to find out the best version to explain your idea, so there’s no single solution that fits everywhere. Here’s the way that worked for his two papers, where he proposed a new problem framework(ie, Problem Proposing paper of above).
 
 - Intuition paragraph: Give an intuitive example of what your problem is and how we as humans solve that problem. It is a setup for the whole paper.
