@@ -242,7 +242,7 @@ changing a practice intervention.
 
 
 ## Intro Writing Tips by (Ayush Jain)[http://www-scf.usc.edu/~ayushj/]
-- The general procedure for intro writing depends on the kind of paper it is. It usually requires a lot of trial and error to find out the best version to explain your idea, so there’s no single solution that fits everywhere. Here’s the way that worked for my two papers, where we propose a new problem framework.
+- The general procedure for intro writing depends on the kind of paper it is. It usually requires a lot of trial and error to find out the best version to explain your idea, so there’s no single solution that fits everywhere. Here’s the way that worked for his two papers, where he proposed a new problem framework(ie, Problem Proposing paper of above).
 - Intuition paragraph: Give an intuitive example of what your problem is and how we as humans solve that problem. It is a setup for the whole paper.
 Problem paragraph: State your problem setting. Differentiate it from general prior work and specific prior work that could potentially be applicable for this problem. Finally, state your problem goal clearly.
 - Importance of this problem: Why are we solving this problem? What will this achieve if we can solve it successfully? Since we mention applications already here, we can also talk about the environments we tackle in our paper, to emphasize what we have been able to achieve by solving this problem.
