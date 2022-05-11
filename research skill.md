@@ -239,3 +239,17 @@ changing a practice intervention.
   - Nothing is more validating than presenting your work to researchers whom you look up to.
 - *Make a Good Poster*
   - All the presentation tips won't work if you have a crappy poster.
+
+
+## Intro Writing Tips by (Ayush Jain)[http://www-scf.usc.edu/~ayushj/]
+- The general procedure for intro writing depends on the kind of paper it is. It usually requires a lot of trial and error to find out the best version to explain your idea, so there’s no single solution that fits everywhere. Here’s the way that worked for my two papers, where we propose a new problem framework.
+- Intuition paragraph: Give an intuitive example of what your problem is and how we as humans solve that problem. It is a setup for the whole paper.
+Problem paragraph: State your problem setting. Differentiate it from general prior work and specific prior work that could potentially be applicable for this problem. Finally, state your problem goal clearly.
+- Importance of this problem: Why are we solving this problem? What will this achieve if we can solve it successfully? Since we mention applications already here, we can also talk about the environments we tackle in our paper, to emphasize what we have been able to achieve by solving this problem.
+- Challenges in solving this problem: List all the technical challenges required to solve this problem.
+- Solution: What is your solution to these challenges? — Describe your method in simple terms, yet focusing on the important novel components.
+- Contributions: Clearly state what is new in your paper. Why should a reader care about your paper? Keep it short and focused, instead of writing everything possible. e.g. We identified this problem, proposed a solution with this insight, and this enables us to solve these applications.
+- Important points:
+  - everything should follow one coherent story. Carefully think about the sentence flow (low-level) and paragraph flow (high-level).
+  - keep the intro as short and concise as possible. Don’t add any detail that is not important — even if you took the longest time to figure that detail out.
+  - re-read everything as a new reader. Does everything make perfect sense? If something is hand-wavy, then clarify it or minimize it if you know that there is nothing you can do to make it clearer.
