@@ -254,3 +254,9 @@ Problem paragraph: State your problem setting. Differentiate it from general pri
   - everything should follow one coherent story. Carefully think about the sentence flow (low-level) and paragraph flow (high-level).
   - keep the intro as short and concise as possible. Don’t add any detail that is not important — even if you took the longest time to figure that detail out.
   - re-read everything as a new reader. Does everything make perfect sense? If something is hand-wavy, then clarify it or minimize it if you know that there is nothing you can do to make it clearer.
+
+## Tips: What does "Carefully read a paper" mean?
+- Analyse the exps results to see if the proposed method really works or it has some flaw
+- Check if the proposition is evaluated correctly through exp results
+- See if the paper is critical to the project from various perspectives
+  - eg., What's our contribution? what can we improve? any limitation
