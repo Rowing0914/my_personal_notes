@@ -260,3 +260,6 @@ Problem paragraph: State your problem setting. Differentiate it from general pri
 - Check if the proposition is evaluated correctly through exp results
 - See if the paper is critical to the project from various perspectives
   - eg., What's our contribution? what can we improve? any limitation
+
+## Tips: Debugging the assumption in research project
+- https://ofirnachum.github.io/posts/baselines-and-oracles/
