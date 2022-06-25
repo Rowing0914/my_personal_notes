@@ -49,38 +49,38 @@
 
           - How to summarise papers?
 
-            - I'd like to summarise papers on Google slide since it's quicker to remind myself about the paper content. See the following;![Screenshot from 2022-06-25 22-22-28](./images/Screenshot from 2022-06-25 22-22-28.png)
-
-              ![Screenshot from 2022-06-25 22-22-43](./images/Screenshot from 2022-06-25 22-22-43.png)
-
+            - I'd like to summarise papers on Google slide since it's quicker to remind myself about the paper content. See the following;
+              - ![ex-summary-slide1](./images/ex-summary-slide1.png)
+              - ![ex-summary-slide2](./images/ex-summary-slide2.png)
             - Other formats: [Prof. Yoichi Ochiai's template](https://www.slideshare.net/Ochyai/1-ftma15?ref=https://www.chem-station.com/blog/2017/12/shoroku.html) / [Arxiv Times](https://github.com/arXivTimes/arXivTimes)
-
+            
           - Organise/categorise the related works
-
-            - Of course, ppl usually use mendeley or other reference organising softwares but didn't work for me... So I ended up having the literature review folder like this...![Screenshot from 2022-06-25 22-24-22](./images/Screenshot from 2022-06-25 22-24-22.png)
-
+          
+            - Of course, ppl usually use mendeley or other reference organising softwares but didn't work for me... So I ended up having the literature review folder like this...
+              - ![ex-list-of-lit-review-slides](./images/ex-list-of-lit-review-slides.png)
+          
           - Make sure to check the codebase
-
+          
             - If you have time, then run the existing open-source code / Try implementing it yourself to understand it better
-
+          
         - Disucss with co-workers after going over few seemlingly relevant papers
-
+        
           - Discussing with ppl helps you to understand them better and you might be able to get some new interesting questions from your co-workers
           - Make sure to take a note about the discussion!!
-
+        
       - Tips: What does "Carefully read a paper" mean? by Ayush
-
+      
         - Analyse the exps results to see if the proposed method really works or it has some flaw
         - Check if the proposition is evaluated correctly through exp results
         - See if the paper is critical to the project from various perspectives
           - eg., What's our contribution? what can we improve? any limitation
-
+      
     - Looking around youself to find the real-world issues is important
-
+    
       - Lit review is good but sometimes just listening to your coworkers helps you to find the practical issues of existing methods too!
-
+    
   - Draft the storyline
-
+  
     - Prerequisite: List of relevant papers + Categorisation of individuals
     - Objective: To form and refine the project direction
       - See the paper types above too!
@@ -119,7 +119,7 @@
         - top-down: start with the problem, narrow down to solution space
         - bottom-up: start from specific insights, and go upwards to solve bigger family, more universal problems
       - Constant thinking and reading to refine the process
-
+  
 - Full Experimentation
 
   - Conduct the POC of the hypothesis
