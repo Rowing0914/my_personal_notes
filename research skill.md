@@ -125,6 +125,7 @@
   - Conduct the POC of the hypothesis
     - Debug: code-level debug to identify bugs, idea or assumption level debug to identify the flaw in your claim
     - [Good reference](https://ofirnachum.github.io/posts/baselines-and-oracles/)
+    - Always make sure that agents/models are fully tuned!! Just try extreme hyper-params just in case, eg., lr=0.1 or gamma=0.0 etc! This is to robustify the results!
   - Compile the qualitative / quantitative results
     - Make sure to tune the baselines fully!!
     - Hyper-param search of your method to realise the optimal perfromance
