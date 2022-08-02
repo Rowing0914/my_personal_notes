@@ -21,3 +21,5 @@
     - https://gist.github.com/zigmoo/b67b11cd7bc8a5c66a44b91fcf37898e
   - tmux
     - https://tmuxcheatsheet.com/
+- InSync: https://www.insynchq.com/
+- Openconnect: https://installati.one/ubuntu/21.04/openconnect/
