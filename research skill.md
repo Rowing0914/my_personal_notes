@@ -129,6 +129,7 @@
   - Compile the qualitative / quantitative results
     - Make sure to tune the baselines fully!!
     - Hyper-param search of your method to realise the optimal perfromance
+    - Clean up the codebase periodically to avoid the situation where some legacy code chunks cause the unexpected behaviour or worse influence the result....
 
 - Paper-writing
 
