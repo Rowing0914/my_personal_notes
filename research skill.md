@@ -1,6 +1,6 @@
 # Introduction
 
-- I have learnt literally a lot from my great mentor, [Ayush Jain](http://www-scf.usc.edu/~ayushj/), like not only tips but also he shared many of useful links to learn from.
+- I have learnt literally a lot from my great mentor, [Ayush Jain](http://www-scf.usc.edu/~ayushj/). He shared not only tips but also many of useful links to learn from.
 
 # Types of papers: Quote from [Ayush Jain](http://www-scf.usc.edu/~ayushj/)
 
