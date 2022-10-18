@@ -31,7 +31,7 @@
 
         - Find the relevant papers
 
-          - Compile list of papers/blog posts by skimming found papers
+          - Compile a list of papers or blog posts by scanning
 
             - Twitter / ML posts on Reddit / Conferences(eg., NIPS/ICML/ICLR) / Friends / Deep Learning Monitor / Arxiv Sanity reserver / Google Blog etc...
 
