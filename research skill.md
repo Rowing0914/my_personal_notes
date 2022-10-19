@@ -93,9 +93,9 @@
             - Ideally the task you are going to work on should have the potential impact in real-world
         - Prior / Relevant approaches
           - Use the developed categorisation to explain the previous approaches
-        - Problem statement and Challenges
+        - Problem statement and Technical challenges
           - Problem statement is the insight about the problem setting, eg., Relational reasoning over available actions is crucial
-          - Challenges are technical issues that you need to work on the problem statement; For instance,
+          - Technical challenges are issues that you need to work on to achieve the problem statement; For instance,
             - Action Space as Input for Varying Action Space
               - **Candidate set** can vary across episodes / timesteps
             - Modelling Action Interdependence
