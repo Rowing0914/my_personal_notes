@@ -180,7 +180,7 @@
   - Order matters
   - Let reviewers speak for themselves, then respond directly
   - Be conversational
-  - Respond to the intentt of the questions
+  - Respond to the intent of the questions
   - Don't be afraid of emphasis
   - Feel free to set the stage
   - Keep things self-contained
