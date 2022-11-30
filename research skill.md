@@ -237,6 +237,6 @@
   - https://gred.seisa.ac.jp/kyouikugaku/nyushi/guideline1/?action=common_download_main&upload_id=766
   - https://pdfs.semanticscholar.org/db8c/ee0bd64268a75f0a8f02cc446223ce9ceeed.pdf
   - http://www.phd-dauin.polito.it/proposals.php#44
-- How to read theoretical CS papers
+- How to read theoretical CS papers: [Link](https://cstheory.stackexchange.com/questions/45722/how-to-efficiently-read-the-theoretical-computer-science-research-papers/45735#45735?newreg=dc0b5f7290cb4289a7de61e6f4124f3c)
   - Once we sort out the relevant paper then get to the bottom of it using the 3 pass method or other.
   - Usually, proofs are built up from some simple original work. So readign chronologically helps you to start with the core idea.
