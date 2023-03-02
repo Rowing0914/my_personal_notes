@@ -242,14 +242,17 @@
   - Usually, proofs are built up from some simple original work. So readign chronologically helps you to start with the core idea.
 
 ## Writing tips: Ayush shared me [this website](https://raghavan.usc.edu/2021-spring-crafting-a-research-agenda/#:~:text=%2D-,M%204/5%0AWriting,-%2D)
+- [The Craft of Writing Effectively, McEnerney](https://www.youtube.com/watch?v=vtIzMaLkCaM)  
+  - (1) Think about who are your readers and what value your writing offers to readers
+  - (2) Use the code/terms commonly used in the community to illustrate the value to readers
+    - Otherwise ppl don't care about your work/writing BECAUSE they can't find the motivation to read _not because_ your work/writing is bad/valueless/trivial/not-original
+  - ** There are lots of better and longer summary in the comment like [the one of Lei Xun](https://www.youtube.com/watch?v=vtIzMaLkCaM&lc=UgwQEwbaFU1DJ9YOq5N4AaABAg)
 - [Blog of Josh Marshall about the great guy, Grant](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/)
   - Clarity in writing is important
     - Clarity: A sentence with the fewest well-chosen words, but would not sacrifice meaning to the construction of high-sounding sentences
     - He and other generals like Zachary Taylor were able to obtain this clarity through their duty of sending commands out to different roles of people during the war
   - Sentence can be as clear as the idea in your mind. Thus, you have to have iteration to refine the idea first before writing
-- [The Craft of Writing Effectively, McEnerney](https://www.youtube.com/watch?v=vtIzMaLkCaM)
-  - ** There are lots of better and longer summary in the comment like [the one of Lei Xun](https://www.youtube.com/watch?v=vtIzMaLkCaM&lc=UgwQEwbaFU1DJ9YOq5N4AaABAg)
-  - In short, the important thing was that think about who are your readers, value to readers, and use the code commonly used in the community to illustrate the value to readers otherwise ppl don't care about your work/writing BECAUSE they can't find the motivation to read not because your work/writing is bad/valueless/trivial/not-original
+
 
 ## Notes: To be organised soon
 - 1
