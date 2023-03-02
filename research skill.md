@@ -250,3 +250,26 @@
 - [The Craft of Writing Effectively, McEnerney](https://www.youtube.com/watch?v=vtIzMaLkCaM)
   - ** There are lots of better and longer summary in the comment like [the one of Lei Xun](https://www.youtube.com/watch?v=vtIzMaLkCaM&lc=UgwQEwbaFU1DJ9YOq5N4AaABAg)
   - In short, the important thing was that think about who are your readers, value to readers, and use the code commonly used in the community to illustrate the value to readers otherwise ppl don't care about your work/writing BECAUSE they can't find the motivation to read not because your work/writing is bad/valueless/trivial/not-original
+
+## Notes: To be organised soon
+- 1
+  - Measurement of Best researcher
+    - Quality of paper(num of citations) / Num of papers
+  - Characteristics of good researcher
+    - Ideation: Making the problem clear and finding the impactful problem
+      - Need to work on the hot topic to get attention from the audience
+      - Impactful problem: Not low-hanging fruit(need to have high significance)
+        - impactful applications
+        - impactful and reachable storyline
+    - Implementation: Quickly making the idea work
+    - Keep thinking how to improve the project
+      - Instead of thinking about more method applicability and more future research directions
+      - Look at all the possible solutions and organise what is working and not working
+      - Zoom-out: Think from the problem perspective to improve instead of method perspective to build up
+- 2
+  - what makes good research paper
+    - theoritical background
+    - interesting insight
+    - through evaluation/analysis/comparison
+    - well-written, the research question is concise and the results are clear
+    - novel approach
