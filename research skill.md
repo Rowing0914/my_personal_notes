@@ -243,7 +243,7 @@
 
 ## Writing tips: Ayush shared me [this website](https://raghavan.usc.edu/2021-spring-crafting-a-research-agenda/#:~:text=%2D-,M%204/5%0AWriting,-%2D)
 - [The Craft of Writing Effectively, McEnerney](https://www.youtube.com/watch?v=vtIzMaLkCaM)  
-  - (1) Think about who are your readers and what value your writing offers to readers
+  - (1) Think about who your readers are and what value your writing offers to them,
   - (2) Use the code/terms commonly used in the community to illustrate the value to readers
     - Otherwise ppl don't care about your work/writing BECAUSE they can't find the motivation to read _not because_ your work/writing is bad/valueless/trivial/not-original
   - ** There are lots of better and longer summary in the comment like [the one of Lei Xun](https://www.youtube.com/watch?v=vtIzMaLkCaM&lc=UgwQEwbaFU1DJ9YOq5N4AaABAg)
