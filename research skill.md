@@ -273,3 +273,23 @@
     - through evaluation/analysis/comparison
     - well-written, the research question is concise and the results are clear
     - novel approach
+- 3
+  - Paperwriting
+    - Need the clear exp storyline to analyse the contribution of our proposition
+      - Need to know what to propose and the contribution / challenges to do it
+    - Think about if the existing env offers such challenge correctly and not too artificial
+  - Paperwriting of Experiment section
+    - Env setting / Agents / Objectives(Kind of research question) / Result + Analysis
+- 4
+  - it's important try all the possible degree of complexity on the task to see when the prior works fail at the early stage of project
+  - Play with all hyper-params with 2/3 levels to find the sensitive param
+- 5
+  - Usually design choice experiments go into Appendix
+  - Unless it is very important and significantly changes the results.
+  - but if there is any experiment that is so important that it can make or break things, then we should put it in the paper
+  - It is def an experiment that reviewers would ask, so we should put it in the appendix at the very least.
+- 6
+  - Writing: Try to re-think from the new reader perspective when reading own writing, e.g., Intro
+    - knowing when intro is done is very hard
+    - consistency b/w lines is important -> smooth transition in storyline
+    - concise/ctirical writing <- practise by writing alot...
