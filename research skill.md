@@ -240,6 +240,7 @@
 - How to read theoretical CS papers: [Link](https://cstheory.stackexchange.com/questions/45722/how-to-efficiently-read-the-theoretical-computer-science-research-papers/45735#45735?newreg=dc0b5f7290cb4289a7de61e6f4124f3c)
   - Once we sort out the relevant paper then get to the bottom of it using the 3 pass method or other.
   - Usually, proofs are built up from some simple original work. So readign chronologically helps you to start with the core idea.
+- Tips of paper structure: [link](https://docs.google.com/document/d/1o9rqRaALSpvCs1Psu-IHVdt2gflhIodCV9MD1dApfLk/edit?usp=sharing)
 
 ## Writing tips: Ayush shared me [this website](https://raghavan.usc.edu/2021-spring-crafting-a-research-agenda/#:~:text=%2D-,M%204/5%0AWriting,-%2D)
 - [The Craft of Writing Effectively, McEnerney](https://www.youtube.com/watch?v=vtIzMaLkCaM)  
