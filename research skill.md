@@ -23,67 +23,62 @@
 
 - Research storyline
 
-  - Find the candidate topics
+  - Literature review to Find the candidate topics
 
-    - Literature review
+    - Objective: To understand the prior works and form a candidate project idea
 
-      - Objective: To understand the prior works and form a candidate project idea
+      - To determine what is known and not known about a subject, concept or problem in the area
+      - To generate useful research questions for the discipline
+      - To determine an appropriate experimental design to answer the research question
 
-        - To determine what is known and not known about a subject, concept or problem in the area
-        - To generate useful research questions for the discipline
-        - To determine an appropriate experimental design to answer the research question
+    - Todos
+      - Compile a list of papers or blog posts by scanning
 
-      - Todos
+        - Twitter / ML posts on Reddit / Conferences(eg., NIPS/ICML/ICLR) / Friends / Deep Learning Monitor / Arxiv Sanity reserver / Google Blog etc...
 
-        - Find the relevant papers
+        - Interesting example about how to select relevant papers
 
-          - Compile a list of papers or blog posts by scanning
+          > Get the gestalt right. I remember being impressed with Fei-Fei (my adviser) once during a reviewing session. I had a stack of 4 papers I had reviewed over the last several hours and she picked them up, flipped through each one for 10 seconds, and said one of them was good and the other three bad. Indeed, I was accepting the one and rejecting the other three, but something that took me several hours took her seconds. Fei-Fei was relying on the gestalt of the papers as a powerful heuristic. Your papers, as you become a more senior researcher take on a characteristic look. An introduction of ~1 page. A ~1 page related work section with a good density of citations - not too sparse but not too crowded. A well-designed pull figure (on page 1 or 2) and system figure (on page 3) that were not made in MS Paint. A technical section with some math symbols somewhere, results tables with lots of numbers and some of them bold, one additional cute analysis experiment, and the paper has exactly 8 pages (the page limit) and not a single line less. You’ll have to learn how to endow your papers with the same gestalt because many researchers rely on it as a cognitive shortcut when they judge your work. [From "A Survival Guide to a PhD" by Andrej Karpathy](http://karpathy.github.io/2016/09/07/phd/)
 
-            - Twitter / ML posts on Reddit / Conferences(eg., NIPS/ICML/ICLR) / Friends / Deep Learning Monitor / Arxiv Sanity reserver / Google Blog etc...
+      - Paper-reading check list: Multiple paths in reading papers to check the following
 
-            - Interesting example about how to select relevant papers
+        - What did the authors try to accomplish? => To clarify the storyline
+        - What were the key elements of the approach? => To understand the contributions
+        - Any new applications? => To think about where it comes useful and not
+        - Any connection to other works that you know? => To categorise the paper along with others
+        - What other references fascinate you to follow? => To find a next paper to go over
 
-              > Get the gestalt right. I remember being impressed with Fei-Fei (my adviser) once during a reviewing session. I had a stack of 4 papers I had reviewed over the last several hours and she picked them up, flipped through each one for 10 seconds, and said one of them was good and the other three bad. Indeed, I was accepting the one and rejecting the other three, but something that took me several hours took her seconds. Fei-Fei was relying on the gestalt of the papers as a powerful heuristic. Your papers, as you become a more senior researcher take on a characteristic look. An introduction of ~1 page. A ~1 page related work section with a good density of citations - not too sparse but not too crowded. A well-designed pull figure (on page 1 or 2) and system figure (on page 3) that were not made in MS Paint. A technical section with some math symbols somewhere, results tables with lots of numbers and some of them bold, one additional cute analysis experiment, and the paper has exactly 8 pages (the page limit) and not a single line less. You’ll have to learn how to endow your papers with the same gestalt because many researchers rely on it as a cognitive shortcut when they judge your work. [From "A Survival Guide to a PhD" by Andrej Karpathy](http://karpathy.github.io/2016/09/07/phd/)
+      - How to summarise papers?
 
-          - Paper-reading check list: Multiple paths in reading papers to check the following
-
-            - What did authors try to accomplish? => To clarify the storyline
-            - What were the key elements of the approach? => To understand the contributions
-            - Any new applications? => To think about where it comes useful and not
-            - Any connection to other works that you know? => To categorise the paper along others
-            - What other references do fascinate you to follow? => To find a next papre to go over
-
-          - How to summarise papers?
-
-            - I'd like to summarise papers on Google slide since it's quicker to remind myself about the paper content. See the following;
-              - ![ex-summary-slide1](./images/ex-summary-slide1.png)
-              - ![ex-summary-slide2](./images/ex-summary-slide2.png)
-            - Other formats: [Prof. Yoichi Ochiai's template](https://www.slideshare.net/Ochyai/1-ftma15?ref=https://www.chem-station.com/blog/2017/12/shoroku.html) / [Arxiv Times](https://github.com/arXivTimes/arXivTimes)
-            
-          - Organise/categorise the related works
+        - I'd like to summarise papers on Google slide since it's quicker to remind myself about the paper content. See the following;
+          - ![ex-summary-slide1](./images/ex-summary-slide1.png)
+          - ![ex-summary-slide2](./images/ex-summary-slide2.png)
+        - Other formats: [Prof. Yoichi Ochiai's template](https://www.slideshare.net/Ochyai/1-ftma15?ref=https://www.chem-station.com/blog/2017/12/shoroku.html) / [Arxiv Times](https://github.com/arXivTimes/arXivTimes)
           
-            - Of course, ppl usually use mendeley or other reference organising softwares but didn't work for me... So I ended up having the literature review folder like this...
-              - ![ex-list-of-lit-review-slides](./images/ex-list-of-lit-review-slides.png)
-          
-          - Make sure to check the codebase
-          
-            - If you have time, then run the existing open-source code / Try implementing it yourself to understand it better
-          
-        - Disucss with co-workers after going over few seemlingly relevant papers
+        - Organise/categorise the related works
         
-          - Discussing with ppl helps you to understand them better and you might be able to get some new interesting questions from your co-workers
-          - Make sure to take a note about the discussion!!
+          - Of course, ppl usually use mendeley or other reference organising softwares but didn't work for me... So I ended up having the literature review folder like this...
+            - ![ex-list-of-lit-review-slides](./images/ex-list-of-lit-review-slides.png)
         
-      - Tips: What does "Carefully read a paper" mean? by Ayush
+        - Make sure to check the codebase
+        
+          - If you have time, then run the existing open-source code / Try implementing it yourself to understand it better
+        
+      - Discuss with co-workers after going over a few seemingly relevant papers
       
-        - Analyse the exps results to see if the proposed method really works or it has some flaw
-        - Check if the proposition is evaluated correctly through exp results
-        - See if the paper is critical to the project from various perspectives
-          - eg., What's our contribution? what can we improve? any limitation
+        - Discussing with ppl helps you to understand them better and you might be able to get some new interesting questions from your co-workers
+        - Make sure to take note of the discussion!!
       
-    - Looking around youself to find the real-world issues is important
+    - Tips: What does "Carefully read a paper" mean? by Ayush
     
-      - Lit review is good but sometimes just listening to your coworkers helps you to find the practical issues of existing methods too!
+      - Analyse the exps results to see if the proposed method really works or it has some flaw
+      - Check if the proposition is evaluated correctly through exp results
+      - See if the paper is critical to the project from various perspectives
+        - eg., What's our contribution? what can we improve? any limitation
+    
+  - Looking around youself to find the real-world issues is important
+  
+    - Lit review is good but sometimes just listening to your coworkers helps you to find the practical issues of existing methods too!
     
   - Draft the storyline
   
