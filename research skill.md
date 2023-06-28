@@ -97,18 +97,16 @@
             - Make decision based on the **relational information among interdependent actions**
       - Potential solution
         - Given the challenges, you can explain your potential solution
+        - ** Brainstorm the issues of baselines and potential solutions
+	- Brainstorm the method's applicability
+  	   - Where does your method come beneficial?
+	   - Any real-world application?
+	   - Don't limit yourself to the existing envs, but think out of the box about new applications
       - Experimental plan
         - Applications / Envs / Datasets
         - Research Questions to effectively show the contribution of your proposition
         - Oracles / Baselines => See [his blog](https://ofirnachum.github.io/posts/baselines-and-oracles/)
         - Quantitivate / Qualitative results
-    - Conduct init experiments with baselines to verify the codebase
-      - You should also explore to get insights about the problem => Refine the problem statement
-    - Brainstorm the issues of baselines and potential solutions
-    - Brainstorm the method's applicability
-      - Where does your method come beneficial?
-      - Any real-world application?
-      - Don't limit yourself to the existing envs, but think out of the box about new applications
   - Tips by Ayush
     - Brainstorm with more depth of interleaving questioning and answering, don't stop with the first layer of questions in idea generation
       - top-down: start with the problem, narrow it down to the solution space
@@ -122,7 +120,8 @@
 - Experiments
   - Selection of env/task/dataset
 	- Think about if the existing env offers such challenge correctly and or too artificial
-  - Init exp: POC of the hypothesis/insight
+  - Init exp: POC to verify hypothesis/insight and the codebase
+    - Make sure to Explore to get insights about the problem => Refine the problem statement
     - Debug: (i) code-level debug to identify bugs, (ii) idea or assumption-level debug to identify the flaw in your claim
     - [Good reference](https://ofirnachum.github.io/posts/baselines-and-oracles/)
     - Make sure that agents/models are fully tuned!! Also, try extreme hyperparams, eg., lr=0.1 or gamma=0.0 etc to robustify the results!
