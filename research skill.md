@@ -51,14 +51,14 @@
       - How to summarise papers?
 
         - I'd like to summarise papers on Google slide since it's quicker to remind myself about the paper content. See the following;
-          - ![ex-summary-slide1](./images/ex-summary-slide1.png)
-          - ![ex-summary-slide2](./images/ex-summary-slide2.png)
+          - <img src="./images/ex-summary-slide1.png" alt="drawing" width="150"/>
+          - <img src="./images/ex-summary-slide2.png" alt="drawing" width="150"/>
         - Other formats: [Prof. Yoichi Ochiai's template](https://www.slideshare.net/Ochyai/1-ftma15?ref=https://www.chem-station.com/blog/2017/12/shoroku.html) / [Arxiv Times](https://github.com/arXivTimes/arXivTimes)
           
       - Organise/categorise the related works
       
         - Of course, mendeley or other reference mgrs are okay but didn't work for me... So here is my way;
-          - ![ex-list-of-lit-review-slides](./images/ex-list-of-lit-review-slides.png)
+          - <img src="./images/ex-list-of-lit-review-slides.png" alt="drawing" width="150"/>
       
       - Make sure to check the codebase
       
