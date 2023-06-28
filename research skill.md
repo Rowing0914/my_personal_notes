@@ -1,14 +1,17 @@
 # Introduction
 
-- I have learnt literally a lot from my great mentor, [Ayush Jain](http://www-scf.usc.edu/~ayushj/). He shared not only tips but also many of useful links to learn from.
+- I have literally learnt a lot from my great mentor, [Ayush Jain](http://www-scf.usc.edu/~ayushj/). He shared not only tips but also many of useful links to learn from.
 
 # Types of papers: Quote from [Ayush Jain](http://www-scf.usc.edu/~ayushj/)
 
-- Paper’s contribution is msg about one key idea that is new and important. There seems to be 2 main kinds of contributions you could make with your paper;
+- Paper’s contribution is msg about one key idea that is new and important. There seem to be 2 main kinds of contributions you could make with your paper;
   1. Problem proposing paper -> "Why your problem setting is interesting?"
-     - Identify a new problem setup that is meaningful for current or future research applications. Here the contribution is the novel problem itself and the method you propose will be new(ie, SOTA) by definition.
+     - Identify a new problem setup that is meaningful for current or future research applications.
+     - Contribution is the novel problem itself and the method you propose will be new (ie, SOTA) by definition.
   2. Methodological paper -> "Why your method is interesting?"
-     - Identify a problem/issue in the existing methods and propose a solution to tackles that issue. If your hypothesis is correct, then you would naturally beat the SOTA. But beating SOTA is not the main point. Contribution is still about the problem you identified and solved.
+     - Identify a problem/issue in the existing methods and propose a solution to tackle that issue.
+     - If your hypothesis is correct, then you would naturally beat the SOTA.
+       - But beating SOTA is not the main point. Contribution is still about the problem you identified and solved.  
        ** SOTAs come and go, but ideas are transferable and reusable.
 
 - Apart from these, there are several other ways to make research contributions such as rigorously analyzing issues in what works and what doesn’t, benchmarking current algorithms, and novel datasets or environments that further the frontier of research.
