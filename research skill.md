@@ -80,7 +80,6 @@
     - Lit review is good but sometimes just listening to your coworkers helps you to find the practical issues of existing methods too!
     
   - Draft the storyline
-
     - Prepare the following slides as a very short form of paper while working on the next todo(ie, Init exp)
       - Motivating example + Problem Setting: To explain the importance of project
         - Explain a kind of task using generic RESEARCH FRIENDLY technical terms, eg., Varying action RL where a set of available actions changes over time
@@ -115,14 +114,23 @@
       - top-down: start with the problem, narrow it down to the solution space
       - bottom-up: start from specific insights, and go upwards to solve bigger family, more universal problems
     - Constant thinking and reading to refine the process
+    - Impactful problem??
+      - Hot topic, not low-hanging fruit (ie., high significance)
+      - Impactful applications
+      - Impactful and reachable storyline
   
 - Experiments
-
+  - Selection of env/task/dataset
+	- Think about if the existing env offers such challenge correctly and or too artificial
   - Init exp: POC of the hypothesis/insight
     - Debug: (i) code-level debug to identify bugs, (ii) idea or assumption-level debug to identify the flaw in your claim
     - [Good reference](https://ofirnachum.github.io/posts/baselines-and-oracles/)
     - Make sure that agents/models are fully tuned!! Also, try extreme hyperparams, eg., lr=0.1 or gamma=0.0 etc to robustify the results!
   - Full-scale experiments across different datasets/envs
+	  - Clarify lear exp storyline to analyse the contribution of our proposition
+		  - See if what to propose and the contribution / challenges to do it are clear
+	- Try all the possible degree of complexity on the task to see when the prior works fail at the early stage of project
+	- Play with all hyper-params with 2/3 levels to find the sensitive param
   - Compile the qualitative/quantitative results
     - Make sure to tune the baselines fully!!
     - Hyper-param search of your method to realise the optimal performance
@@ -130,7 +138,7 @@
 
 - Paper-writing
 
-  - Quote from Ayush
+  - Quotes from Ayush
     - The general procedure for intro writing depends on the kind of paper it is. It usually requires a lot of trial and error to find out the best version to explain your idea, so there’s no single solution that fits everywhere. Here’s the way that worked for his two papers, where he proposed a new problem framework(ie, Problem Proposing paper of above).
       - Intuition paragraph: Give an intuitive example of what your problem is and how we as humans solve that problem. It is a setup for the whole paper.
         Problem paragraph: State your problem setting. Differentiate it from general prior work and specific prior work that could potentially be applicable for this problem. Finally, state your problem goal clearly.
@@ -142,6 +150,21 @@
         - everything should follow one coherent story. Carefully think about the sentence flow (low-level) and paragraph flow (high-level).
         - keep the intro as short and concise as possible. Don’t add any detail that is not important — even if you took the longest time to figure that detail out.
         - re-read everything as a new reader. Does everything make perfect sense? If something is hand-wavy, then clarify it or minimize it if you know that there is nothing you can do to make it clearer.
+  - Tips
+	  - Try to re-think from the new reader perspective when reading own writing, e.g., Intro
+	    - knowing when intro is done is very hard
+	    - consistency b/w lines is important -> smooth transition in storyline
+	    - concise/ctirical writing <- practise by writing alot
+	  - what makes a good research paper
+	    - Theoritical background
+	    - interesting insight
+	    - through evaluation/analysis/comparison
+	    - well-written, the research question is concise and the results are clear
+	    - novel approach
+    - Keep thinking how to improve the project
+      - Instead of thinking about more method applicability and more future research directions
+      - Look at all the possible solutions and organise what is working and not working
+      - Zoom-out: Think from the problem perspective to improve instead of method perspective to build up
   - Generic paper structure
     - Introduction
     - Relevant Works
@@ -250,47 +273,3 @@
     - Clarity: A sentence with the fewest well-chosen words, but would not sacrifice meaning to the construction of high-sounding sentences
     - He and other generals like Zachary Taylor were able to obtain this clarity through their duty of sending commands out to different roles of people during the war
   - Sentence can be as clear as the idea in your mind. Thus, you have to have iteration to refine the idea first before writing
-
-
-## Notes: To be organised soon
-- 1
-  - Measurement of Best researcher
-    - Quality of paper(num of citations) / Num of papers
-  - Characteristics of good researcher
-    - Ideation: Making the problem clear and finding the impactful problem
-      - Need to work on the hot topic to get attention from the audience
-      - Impactful problem: Not low-hanging fruit(need to have high significance)
-        - impactful applications
-        - impactful and reachable storyline
-    - Implementation: Quickly making the idea work
-    - Keep thinking how to improve the project
-      - Instead of thinking about more method applicability and more future research directions
-      - Look at all the possible solutions and organise what is working and not working
-      - Zoom-out: Think from the problem perspective to improve instead of method perspective to build up
-- 2
-  - what makes good research paper
-    - theoritical background
-    - interesting insight
-    - through evaluation/analysis/comparison
-    - well-written, the research question is concise and the results are clear
-    - novel approach
-- 3
-  - Paperwriting
-    - Need the clear exp storyline to analyse the contribution of our proposition
-      - Need to know what to propose and the contribution / challenges to do it
-    - Think about if the existing env offers such challenge correctly and not too artificial
-  - Paperwriting of Experiment section
-    - Env setting / Agents / Objectives(Kind of research question) / Result + Analysis
-- 4
-  - it's important try all the possible degree of complexity on the task to see when the prior works fail at the early stage of project
-  - Play with all hyper-params with 2/3 levels to find the sensitive param
-- 5
-  - Usually design choice experiments go into Appendix
-  - Unless it is very important and significantly changes the results.
-  - but if there is any experiment that is so important that it can make or break things, then we should put it in the paper
-  - It is def an experiment that reviewers would ask, so we should put it in the appendix at the very least.
-- 6
-  - Writing: Try to re-think from the new reader perspective when reading own writing, e.g., Intro
-    - knowing when intro is done is very hard
-    - consistency b/w lines is important -> smooth transition in storyline
-    - concise/ctirical writing <- practise by writing alot...
