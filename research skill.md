@@ -14,7 +14,10 @@
        - But beating SOTA is not the main point. Contribution is still about the problem you identified and solved.  
        ** SOTAs come and go, but ideas are transferable and reusable.
 
-- Apart from these, there are several other ways to make research contributions such as rigorously analyzing issues in what works and what doesn’t, benchmarking current algorithms, and novel datasets or environments that further the frontier of research.
+- Other ways to make research contributions;
+  - Rigorously analyzing issues in what works and what doesn’t
+  - Benchmarking current algorithms to offer meaningful insights,
+  - Novel datasets or environments that further the frontier of research.
 
 # Project Procedures
 
