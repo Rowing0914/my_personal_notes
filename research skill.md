@@ -31,43 +31,42 @@
       - To generate useful research questions for the discipline
       - To determine an appropriate experimental design to answer the research question
 
-    - Todos
-      - Compile a list of papers or blog posts by scanning
+    - Compile a list of papers or blog posts by scanning
 
-        - Twitter / ML posts on Reddit / Conferences(eg., NIPS/ICML/ICLR) / Friends / Deep Learning Monitor / Arxiv Sanity reserver / Google Blog etc...
+      - Twitter / ML posts on Reddit / Conferences(eg., NIPS/ICML/ICLR) / Friends / Deep Learning Monitor / Arxiv Sanity reserver / Google Blog etc...
 
-        - Interesting example about how to select relevant papers
+      - Interesting example about how to select relevant papers
 
-          > Get the gestalt right. I remember being impressed with Fei-Fei (my adviser) once during a reviewing session. I had a stack of 4 papers I had reviewed over the last several hours and she picked them up, flipped through each one for 10 seconds, and said one of them was good and the other three bad. Indeed, I was accepting the one and rejecting the other three, but something that took me several hours took her seconds. Fei-Fei was relying on the gestalt of the papers as a powerful heuristic. Your papers, as you become a more senior researcher take on a characteristic look. An introduction of ~1 page. A ~1 page related work section with a good density of citations - not too sparse but not too crowded. A well-designed pull figure (on page 1 or 2) and system figure (on page 3) that were not made in MS Paint. A technical section with some math symbols somewhere, results tables with lots of numbers and some of them bold, one additional cute analysis experiment, and the paper has exactly 8 pages (the page limit) and not a single line less. You’ll have to learn how to endow your papers with the same gestalt because many researchers rely on it as a cognitive shortcut when they judge your work. [From "A Survival Guide to a PhD" by Andrej Karpathy](http://karpathy.github.io/2016/09/07/phd/)
+        > Get the gestalt right. I remember being impressed with Fei-Fei (my adviser) once during a reviewing session. I had a stack of 4 papers I had reviewed over the last several hours and she picked them up, flipped through each one for 10 seconds, and said one of them was good and the other three bad. Indeed, I was accepting the one and rejecting the other three, but something that took me several hours took her seconds. Fei-Fei was relying on the gestalt of the papers as a powerful heuristic. Your papers, as you become a more senior researcher take on a characteristic look. An introduction of ~1 page. A ~1 page related work section with a good density of citations - not too sparse but not too crowded. A well-designed pull figure (on page 1 or 2) and system figure (on page 3) that were not made in MS Paint. A technical section with some math symbols somewhere, results tables with lots of numbers and some of them bold, one additional cute analysis experiment, and the paper has exactly 8 pages (the page limit) and not a single line less. You’ll have to learn how to endow your papers with the same gestalt because many researchers rely on it as a cognitive shortcut when they judge your work. [From "A Survival Guide to a PhD" by Andrej Karpathy](http://karpathy.github.io/2016/09/07/phd/)
 
-      - Paper-reading check list: Multiple paths in reading papers to check the following
+    - Paper-reading check list: Multiple paths in reading papers to check the following
 
-        - What did the authors try to accomplish? => To clarify the storyline
-        - What were the key elements of the approach? => To understand the contributions
-        - Any new applications? => To think about where it comes useful and not
-        - Any connection to other works that you know? => To categorise the paper along with others
-        - What other references fascinate you to follow? => To find a next paper to go over
+      - What did the authors try to accomplish? => To clarify the storyline
+      - What were the key elements of the approach? => To understand the contributions
+      - Any new applications? => To think about where it comes useful and not
+      - Any connection to other works that you know? => To categorise the paper along with others
+      - What other references fascinate you to follow? => To find a next paper to go over
 
-      - How to summarise papers?
+    - How to summarise papers?
 
-        - I'd like to summarise papers on Google slide since it's quicker to remind myself about the paper content. See the following;
-          - <img src="./images/ex-summary-slide1.png" alt="drawing" width="150"/>
-          - <img src="./images/ex-summary-slide2.png" alt="drawing" width="150"/>
-        - Other formats: [Prof. Yoichi Ochiai's template](https://www.slideshare.net/Ochyai/1-ftma15?ref=https://www.chem-station.com/blog/2017/12/shoroku.html) / [Arxiv Times](https://github.com/arXivTimes/arXivTimes)
-          
-      - Organise/categorise the related works
-      
-        - Of course, mendeley or other reference mgrs are okay but didn't work for me... So here is my way;
-          - <img src="./images/ex-list-of-lit-review-slides.png" alt="drawing" width="150"/>
-      
-      - Make sure to check the codebase
-      
-        - If you have time, then run the existing open-source code / Try implementing it yourself to understand it better
+      - I'd like to summarise papers on Google slide since it's quicker to remind myself about the paper content. See the following;
+        - <img src="./images/ex-summary-slide1.png" alt="drawing" width="150"/>
+        - <img src="./images/ex-summary-slide2.png" alt="drawing" width="150"/>
+      - Other formats: [Prof. Yoichi Ochiai's template](https://www.slideshare.net/Ochyai/1-ftma15?ref=https://www.chem-station.com/blog/2017/12/shoroku.html) / [Arxiv Times](https://github.com/arXivTimes/arXivTimes)
         
-      - Discuss with co-workers after going over a few seemingly relevant papers
+    - Organise/categorise the related works
+    
+      - Of course, mendeley or other reference mgrs are okay but didn't work for me... So here is my way;
+        - <img src="./images/ex-list-of-lit-review-slides.png" alt="drawing" width="150"/>
+    
+    - Make sure to check the codebase
+    
+      - If you have time, then run the existing open-source code / Try implementing it yourself to understand it better
       
-        - Discussing with ppl helps you to understand them better and you might be able to get some new interesting questions from your co-workers
-        - Make sure to take note of the discussion!!
+    - Discuss with co-workers after going over a few seemingly relevant papers
+    
+      - Discussing with ppl helps you to understand them better and you might be able to get some new interesting questions from your co-workers
+      - Make sure to take note of the discussion!!
       
     - Tips: `What does "Carefully read a paper"` mean? by `Ayush`
     
