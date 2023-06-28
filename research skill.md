@@ -55,28 +55,28 @@
           - ![ex-summary-slide2](./images/ex-summary-slide2.png)
         - Other formats: [Prof. Yoichi Ochiai's template](https://www.slideshare.net/Ochyai/1-ftma15?ref=https://www.chem-station.com/blog/2017/12/shoroku.html) / [Arxiv Times](https://github.com/arXivTimes/arXivTimes)
           
-        - Organise/categorise the related works
-        
-          - Of course, ppl usually use mendeley or other reference organising softwares but didn't work for me... So I ended up having the literature review folder like this...
-            - ![ex-list-of-lit-review-slides](./images/ex-list-of-lit-review-slides.png)
-        
-        - Make sure to check the codebase
-        
-          - If you have time, then run the existing open-source code / Try implementing it yourself to understand it better
+      - Organise/categorise the related works
+      
+        - Of course, mendeley or other reference mgrs are okay but didn't work for me... So here is my way;
+          - ![ex-list-of-lit-review-slides](./images/ex-list-of-lit-review-slides.png)
+      
+      - Make sure to check the codebase
+      
+        - If you have time, then run the existing open-source code / Try implementing it yourself to understand it better
         
       - Discuss with co-workers after going over a few seemingly relevant papers
       
         - Discussing with ppl helps you to understand them better and you might be able to get some new interesting questions from your co-workers
         - Make sure to take note of the discussion!!
       
-    - Tips: What does "Carefully read a paper" mean? by Ayush
+    - Tips: `What does "Carefully read a paper"` mean? by `Ayush`
     
       - Analyse the exps results to see if the proposed method really works or it has some flaw
       - Check if the proposition is evaluated correctly through exp results
       - See if the paper is critical to the project from various perspectives
         - eg., What's our contribution? what can we improve? any limitation
     
-  - Looking around youself to find the real-world issues is important
+  - Looking around yourself to find real-world issues is important
   
     - Lit review is good but sometimes just listening to your coworkers helps you to find the practical issues of existing methods too!
     
