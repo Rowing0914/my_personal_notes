@@ -80,56 +80,53 @@
     - Lit review is good but sometimes just listening to your coworkers helps you to find the practical issues of existing methods too!
     
   - Draft the storyline
-  
-    - Prerequisite: List of relevant papers + Categorisation of individuals
-    - Objective: To form and refine the project direction
-      - See the paper types above too!
-    - Todos
-      - Prepare the following slides as a very short form of paper while working on the next todo(ie, Init exp)
-        - Motivating example + Problem Setting: To explain the importance of project
-          - Explain a kind of task using generic RESEARCH FRIENDLY technical terms, eg., Varying action RL where a set of available actions changes over time
-            - generic RESEARCH FRIENDLY technical terms: common technical language that everybody is familiar with to reduce ambiguity
-          - Explain a real-world scenario to show where it comes useful
-            - Ideally the task you are going to work on should have the potential impact in real-world
-        - Prior / Relevant approaches
-          - Use the developed categorisation to explain the previous approaches
-        - Problem statement and Technical challenges
-          - Problem statement is the insight about the problem setting, eg., Relational reasoning over available actions is crucial
-          - Technical challenges are issues that you need to work on to achieve the problem statement; For instance,
-            - Action Space as Input for Varying Action Space
-              - **Candidate set** can vary across episodes / timesteps
-            - Modelling Action Interdependence
-              - Make decision based on the **relational information among interdependent actions**
-        - Potential solution
-          - Given the challenges, you can explain your potential solution
-        - Experimental plan
-          - Applications / Envs / Datasets
-          - Research Questions to effectively show the contribution of your proposition
-          - Oracles / Baselines => See [his blog](https://ofirnachum.github.io/posts/baselines-and-oracles/)
-          - Quantitivate / Qualitative results
-      - Conduct init experiments with baselines to verify the codebase
-        - You should also explore to get insights about the problem => Refine the problem statement
-      - Brainstom the issues of baselines and potential solutions
-      - Brainstorm the method applicability
-        - Where does your method come benefitial?
-        - Any real-world application?
-        - Don't limit yourself to the existing envs, but think out of the box about new applications
-    - Tips by Ayush
-      - Brainstorm with more depth of interleaving questioning and answering, don't stop with first layer of questions in idea generation
-        - top-down: start with the problem, narrow down to solution space
-        - bottom-up: start from specific insights, and go upwards to solve bigger family, more universal problems
-      - Constant thinking and reading to refine the process
-  
-- Full Experimentation
 
-  - Conduct the POC of the hypothesis
-    - Debug: code-level debug to identify bugs, idea or assumption level debug to identify the flaw in your claim
+    - Prepare the following slides as a very short form of paper while working on the next todo(ie, Init exp)
+      - Motivating example + Problem Setting: To explain the importance of project
+        - Explain a kind of task using generic RESEARCH FRIENDLY technical terms, eg., Varying action RL where a set of available actions changes over time
+          - generic RESEARCH FRIENDLY technical terms: common technical language that everybody is familiar with to reduce ambiguity
+        - Explain a real-world scenario to show where it comes useful
+          - Ideally the task you are going to work on should have the potential impact in real-world
+      - Prior / Relevant approaches
+        - Use the developed categorisation to explain the previous approaches
+      - Problem statement and Technical challenges
+        - Problem statement is the insight about the problem setting, eg., Relational reasoning over available actions is crucial
+        - Technical challenges are issues that you need to work on to achieve the problem statement; For instance,
+          - Action Space as Input for Varying Action Space
+            - **Candidate set** can vary across episodes / timesteps
+          - Modelling Action Interdependence
+            - Make decision based on the **relational information among interdependent actions**
+      - Potential solution
+        - Given the challenges, you can explain your potential solution
+      - Experimental plan
+        - Applications / Envs / Datasets
+        - Research Questions to effectively show the contribution of your proposition
+        - Oracles / Baselines => See [his blog](https://ofirnachum.github.io/posts/baselines-and-oracles/)
+        - Quantitivate / Qualitative results
+    - Conduct init experiments with baselines to verify the codebase
+      - You should also explore to get insights about the problem => Refine the problem statement
+    - Brainstorm the issues of baselines and potential solutions
+    - Brainstorm the method's applicability
+      - Where does your method come beneficial?
+      - Any real-world application?
+      - Don't limit yourself to the existing envs, but think out of the box about new applications
+  - Tips by Ayush
+    - Brainstorm with more depth of interleaving questioning and answering, don't stop with the first layer of questions in idea generation
+      - top-down: start with the problem, narrow it down to the solution space
+      - bottom-up: start from specific insights, and go upwards to solve bigger family, more universal problems
+    - Constant thinking and reading to refine the process
+  
+- Experiments
+
+  - Init exp: POC of the hypothesis/insight
+    - Debug: (i) code-level debug to identify bugs, (ii) idea or assumption-level debug to identify the flaw in your claim
     - [Good reference](https://ofirnachum.github.io/posts/baselines-and-oracles/)
-    - Always make sure that agents/models are fully tuned!! Just try extreme hyper-params just in case, eg., lr=0.1 or gamma=0.0 etc! This is to robustify the results!
-  - Compile the qualitative / quantitative results
+    - Make sure that agents/models are fully tuned!! Also, try extreme hyperparams, eg., lr=0.1 or gamma=0.0 etc to robustify the results!
+  - Full-scale experiments across different datasets/envs
+  - Compile the qualitative/quantitative results
     - Make sure to tune the baselines fully!!
-    - Hyper-param search of your method to realise the optimal perfromance
-    - Clean up the codebase periodically to avoid the situation where some legacy code chunks cause the unexpected behaviour or worse influence the result....
+    - Hyper-param search of your method to realise the optimal performance
+    - Clean up the codebase periodically to avoid some legacy code chunks causing unexpected behaviour
 
 - Paper-writing
 
