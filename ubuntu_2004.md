@@ -1,5 +1,9 @@
 ## Almost the same as 18.04....
 
+```
+sudo apt-get install -y gnome-session gdm3 git indicator-multiload okular okular-extra-backends
+```
+
 - Git: `sudo apt-get install git`
 - Gnome Vanilla Installation: `sudo apt install gnome-session gdm3`
 - [GPU installation](https://www.tensorflow.org/install/gpu)
